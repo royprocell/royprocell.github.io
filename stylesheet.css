@@ -1,0 +1,49 @@
+html
+{
+	background-color:#F2EEE4;
+	text-align:center
+}
+
+body
+{
+	margin:0px;
+}
+
+h2
+{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+h3
+{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+h4
+{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+h5
+{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+div.heading
+{
+	background-color:blue;
+	color:white;
+	align:center;
+	padding:5px;
+}
+
+div.project
+{
+	align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
