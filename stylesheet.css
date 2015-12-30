@@ -47,3 +47,23 @@ div.project
 	margin-left:auto;
 	margin-right:auto;
 }
+
+a.heading
+{
+	text-decoration:none;
+}
+
+a.heading:link
+{
+	color:white;
+}
+
+a.heading:visited
+{
+	color:white;
+}
+
+a.heading:active
+{
+	color:white;
+}
